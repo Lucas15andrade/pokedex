@@ -1,0 +1,20 @@
+### Get pokemons
+GET https://pokeapi.co/api/v2/pokemon?offset=20
+
+### Get pokemon
+GET https://pokeapi.co/api/v2/pokemon/14
+
+### Get pokemon
+GET https://pokeapi.co/api/v2/pokemon/butterfree
+
+###
+GET https://pokeapi.co/api/v2/characteristic/1
+
+###
+GET https://pokeapi.co/api/v2/pokemon-species/3/
+
+###
+GET https://pokeres.bastionbot.org/images/pokemon/2.png
+
+###
+GET https://pokeapi.co/api/v2/stat/1
